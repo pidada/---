@@ -4,9 +4,9 @@
 
 
 import numpy as np
-import matplotlib.pyplot as plt
 from math import sqrt
 from collections import Counter
+
 
 def KNN_classify(k, X_train, y_train, x):
     
