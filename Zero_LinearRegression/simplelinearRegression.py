@@ -2,6 +2,7 @@
 #- *- coding:utf-8 -*-
 # user:peter
 
+
 import numpy as np
 
 class SimpleLinearRegression1:
